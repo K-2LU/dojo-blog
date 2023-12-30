@@ -13,6 +13,9 @@
       "id": 2
     },
     {
+      "id": 3
+    },
+    {
       "title": "Hello, World!",
       "body": "Goodbye, world! You suck!",
       "author": "mario",
@@ -23,12 +26,6 @@
       "body": "Razor, Razor, Bye Bye",
       "author": "mario",
       "id": 5
-    },
-    {
-      "title": "Tale of Hashimoto",
-      "body": "This is the tale of Hashimoto,\nHis life was filled with sorrow,\nOne one misty day,\nHe suddenly decided to pass away",
-      "author": "mario",
-      "id": 6
     }
   ]
 }
